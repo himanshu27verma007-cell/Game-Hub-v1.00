@@ -1,21 +1,22 @@
-firstapk.py
+Main.py
 
 
  /// GAME HUB ///
- 
-        Games==
-             >>Number guess (guess_game)
-             >>Rock paper scissor (rps)
-             >>Calculator (calc)
+         🎮
+         
+        Games available ✍🏻:
+             >>Number guess 🔢(guess_game)
+             >>Rock🪨 paper🗞️ scissor✂️ (rps)
+             >>Calculator🧮 (calc)
 
              
-        Assets==
-              >>Sounds
-              >>Hover
-              >>Neon green UI
+        Assets🫆:
+              >>Sounds🔊
+              >>Hover🏄🏻
+              >>Neon green UI🟢
 
               
-        Built with:
-           >>Python
-           >>Tkinter
+        Built with🧑🏻‍💻:
+           >>Python🐍
+           >>Tkinter⛎
               
